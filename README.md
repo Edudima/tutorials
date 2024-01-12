@@ -1,9 +1,7 @@
-# cheat-sheets
+# Cheat Sheets
+Bienvenidos a este repositorio, donde espero que encontréis documentación que os pueda ayudar en vuestro día a día. 
 
-Hola a todos!
-<br><br>
-Mi nombre es Edu, y soy un apasionado de la tecnología, que trabaja como Administrador de Sistemas.
-<br><br>
-Aquí añadiré documentación de diferentes tecnologías que puede que os sirva de utilidad. 
-
-Gracias!
+### Atención!
+> :warning: La documentación disponible puede no encontrarse actualizada en el momento que te encuentres accediendo a ella. 
+Esta documentación ha sido generada en base a casos de uso específicos, en diferentes infraestructuras y con diferentes características. 
+Por ello, ¡no olvides siempre consultar la documentación oficial! 
